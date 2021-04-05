@@ -1,2 +1,2 @@
 # Automatic-temperature-control-
-Contrôler  automatique la  température  
+Contrôler  automatiquement  la  température  
