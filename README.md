@@ -2,7 +2,20 @@
 Contrôler  automatiquement  la  température  
 
 
+-SOFTWARE : 
 
+           -MIKROC FOR PIC 
+           -PORTEUS 8 PROFESSIONEL
+- HARDWARE : 
+               
+           - PIC18F45K22
+           - BUZZER
+           - TEMPERATURE SENSOR 
+           - LED RED 
+           - LCD 
+           - KEYBAD 9 BUTTON 
+           - 2 RELAIS VENTLATEUR OU CHAUFFEUR 
+             
 - SCHEMA PROTEUSE :
 ![image](https://user-images.githubusercontent.com/80831555/115291937-df3b8500-a144-11eb-91cc-04a0451ff3fa.png)
 
