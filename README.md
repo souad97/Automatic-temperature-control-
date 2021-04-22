@@ -16,7 +16,7 @@ Contrôler  automatiquement  la  température
            - LCD 
            - KEYBAD 9 BUTTON 
            - 2 RELAIS 
-           - VENTLATEUR OU CHAUFFEUR 
+           - VENTLATEUR OU CHAUFFAGE 
              
 - SCHEMA PROTEUSE :
 ![image](https://user-images.githubusercontent.com/80831555/115291937-df3b8500-a144-11eb-91cc-04a0451ff3fa.png)
